@@ -1,0 +1,16 @@
+.producto{
+  border: 1px solid rgb(0, 0, 0);
+  margin: 20px;
+  display: inline-block;
+  background-color: lightgray;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.boton-volver{
+  display: block;
+
+}
+
+.boton-comprar{
+  display: block;
+}
