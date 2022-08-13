@@ -3,14 +3,15 @@
   margin: 20px;
   display: inline-block;
   background-color: lightgray;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: 'Cambria' , 'Cochin', 'Georgia', 'Times', 'Times New Roman', 'serif'; 
 }
 
-.boton-volver{
-  display: block;
+/* .boton-volver{
+  ;
+  
+}  
 
-}
 
 .boton-comprar{
   display: block;
-}
+} */

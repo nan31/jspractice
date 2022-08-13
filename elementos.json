@@ -1,0 +1,9 @@
+[
+    {"id": 1, "nombre":"Taza", "descripcion":"Taza personalizada Star Wars", "precio": 1200},
+    {"id": 2, "nombre":"Set Desayuno", "descricpion":"Set personalizado para desayuno", "precio": 1600},
+    {"id": 3, "nombre":"Remera","descripcion":"Remeras personalizadas", "precio": 1300},
+    {"id": 4, "nombre":"Mate","descripicion":"Mate personalizado", "precio": 1200},
+    {"id": 5, "nombre":"Posavasos","descripcion":"Posa vasos personalizado", "precio": 350},
+    {"id": 6, "nombre":"Set de Jardin","descripcion":"Set de Jardin", "precio":1600},
+    {"id": 7, "nombre":"Billetera","descripcion":"Billeteras personalizadas", "precio":1800}
+]
